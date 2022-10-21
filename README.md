@@ -23,8 +23,6 @@ a=np.array([[1,2,3],[3,6,9]])
 b=np.linalg.matrix_rank(a)
 print(b)
 
-
-
 ```
 
 
